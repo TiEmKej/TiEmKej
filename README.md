@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on small unity games
 - 📫 How to reach me:
-1. Discord TiEmKej#2137 
+1. Discord TiMoTi#0400 
 2. tiemkej.biznes@gmail.com
 
 <!---
