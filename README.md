@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TiEmKej
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on small unity games
+- 👀 I’m interested in games, music and programming
+- 🌱 I’m currently learning C# and Python
 - 📫 How to reach me:
 1. Discord TiMoTi#0400 
 2. tiemkej.biznes@gmail.com
