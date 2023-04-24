@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, music and programming
 - 🌱 I’m currently learning C#, Unity and Python
 - 📫 How to reach me:
-1. Discord TiMoTi#0400 
+1. Discord TiEmKej#0400 
 2. tiemkej.biznes@gmail.com
 
 <!---
