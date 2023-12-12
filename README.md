@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, Unity and Python
 - 📫 How to reach me:
 1. Discord: tiemkej (old TiEmKej#0400) 
-2. E-mail: tiemkej.biznes@gmail.com
+2. E-mail: piekarski.milosz@timotidev.com
 
 <!---
 TiEmKej/TiEmKej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
